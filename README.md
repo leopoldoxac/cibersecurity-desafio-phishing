@@ -16,6 +16,11 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
-### Resutados
+### Resutados esperados
 
 ![Alt text](./passwd.png "Optional title")
+
+### Resultados obtidos 
+
+![image](https://github.com/user-attachments/assets/1e7078ae-26fd-4e42-b131-73f1d15dcead)
+
